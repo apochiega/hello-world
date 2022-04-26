@@ -9,6 +9,6 @@
 5) Ponemos puesta en común de lo que hicimos y nos corregimos pequeños detalles entre nosotros.
 
 1¿Qué funcionó bien? 2¿Que no funcionó bien? Si tuvieran que hacer el proyecto de nuevo, 3¿que harían diferente la próxima vez?
-La comunicación fue lo que mejor funcionó entre los miembros, lo cual ayudo a dividir correctamente las tareas y prioridades
-No funcionó bien la división del tiempo
-Dividir mejor los tiempos para cada día de trabajo
+1La comunicación fue lo que mejor funcionó entre los miembros, lo cual ayudo a dividir correctamente las tareas y prioridades
+2No funcionó bien la división del tiempo
+3Dividir mejor los tiempos para cada día de trabajo
