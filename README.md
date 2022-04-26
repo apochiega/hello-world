@@ -1,2 +1,2 @@
 # hello-world
-No se que poner
+Soy julián y me gusta tocar la guitarra
